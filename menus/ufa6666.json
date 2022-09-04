@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ufa6666",
+        "command": "ufa6666:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ufa6666",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ufa6666:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

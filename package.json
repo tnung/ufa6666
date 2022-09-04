@@ -1,14 +1,14 @@
 {
   "name": "ufa6666",
   "main": "./lib/ufa6666",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "ufa6666:toggle"
   },
-  "repository": "https://github.com/atom/ufa6666",
+  "repository": "https://github.com/tnung/ufa6666",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
